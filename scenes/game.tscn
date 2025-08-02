@@ -524,4 +524,4 @@ texture = ExtResource("6_p57ef")
 position = Vector2(161, -30)
 
 [node name="goonba2" parent="." instance=ExtResource("7_u5sy4")]
-position = Vector2(272, -61)
+position = Vector2(101, -173)
